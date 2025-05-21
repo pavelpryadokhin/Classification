@@ -2,6 +2,8 @@
 
 ## Writer forecast
 
+[Код в colab](https://colab.research.google.com/github/pavelpryadokhin/Classification/blob/main/writer_forecast.ipynb)
+
 Этот проект предлагает вам узнать, с каким русским писателем вы ближе всего по стилю письма.
 
 * В работе используются рекуррентные сети.
