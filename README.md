@@ -11,6 +11,8 @@
 * Точность классификации более 90%.
   
 ## News_classifications
+
+[Код в colab](https://colab.research.google.com/github/pavelpryadokhin/Classification/blob/main/News_classifications.ipynb)
 Создана модель для классификации заголовков, способная определять тематику статьи.
 
 * Модель обучена с использованием **kerastuner**.
